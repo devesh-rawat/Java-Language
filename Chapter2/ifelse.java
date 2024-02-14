@@ -1,4 +1,4 @@
-
+import java.util.*;
 public class ifelse{
     public static void main(String[] args) {
         System.out.println("This is a ifelse program in java");
@@ -11,7 +11,9 @@ public class ifelse{
         else{
             System.out.println("You are not an Adult");
         }
+        sc.close();
        }
+       
 
 
 }
