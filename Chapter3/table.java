@@ -11,6 +11,7 @@ public class table {
         // for(; ;) {
         //     System.out.println("Apna College");
         // }
+        sc.close();
 
         }
     
